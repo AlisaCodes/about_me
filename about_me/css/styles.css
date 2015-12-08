@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+}
+
+.container {
+  background-image: url("images/kobe_look_back.jpeg");
+  height: 700px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+
+
+#image-text {
+  position: absolute;
+  left: 10%;
+  top: 210px;
+  color: white;
+  font-family: "verdana";
+  font-size: 20px;
+}
+
+p {
+  font-size: 30px;
+  color: white;
+  padding: 75px;
+  padding-right: 120px;
+}
+
+#first-stanza {
+  float: left;
+}
+
+#reverse_jam_vid {
+  float: right;
+}
